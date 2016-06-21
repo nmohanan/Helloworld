@@ -12,4 +12,4 @@ php bin/magento setup:upgrade
 
 Please take this url after installation
 
-http://localhost/m2ce/hello_world/hello/world
+http://example.com/hello_world/hello/world
